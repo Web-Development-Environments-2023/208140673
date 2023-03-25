@@ -23,3 +23,23 @@
   margin: 0 auto;
   max-width: 100%;
 }
+
+<section id="playlist" class="section">
+  <div class="video-container">
+    <iframe src="https://www.youtube.com/embed/IdneKLhsWOQ" frameborder="0" allowfullscreen></iframe>
+  </div>
+</section>
+
+<style>
+  .video-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+  }
+
+  .video-container iframe {
+    width: 100%;
+    height: 100%;
+  }
+</style>
