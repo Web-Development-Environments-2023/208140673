@@ -5,6 +5,9 @@
 	height: 35px;
 	background: white;
 } */
+body {
+  background-color: pink;
+}
 #menu {
   background-color: pink;
   color: white;
