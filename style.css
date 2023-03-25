@@ -18,3 +18,8 @@
   text-align: justify;
   line-height: 1.5;
 }
+#photos img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+}
