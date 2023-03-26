@@ -9,6 +9,10 @@ body {
   background-color: pink;
 }
 #menu {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
   background-color: pink;
   color: white;
   font-family: Calibri, sans-serif;
