@@ -21,11 +21,13 @@ body {
   padding-bottom: 50px;
 }
 #menu a {
+   position: fixed;
   color: white;
   text-decoration: none;
   padding: 10px;
 }
 #menu a:hover {
+  position: fixed;
   background-color: white;
   color: pink;
   border-radius: 5px;
