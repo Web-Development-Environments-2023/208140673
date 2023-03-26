@@ -15,10 +15,10 @@ body {
   background-color: pink;
   color: white;
   font-family: Calibri, sans-serif;
-  font-size: 50px;
+  font-size: 30px;
   text-align: center;
-  padding-top: 50px;
-  padding-bottom: 50px;
+  padding-top: 30px;
+  padding-bottom: 30px;
 }
 #menu a {
    position: fixed;
