@@ -1,14 +1,14 @@
-#menu
+/* #menu
 {
 	position: fixed;
 	width: 100%;
 	height: 35px;
 	background: white;
-}
+} */
 body {
   background-color: pink;
 }
-/* #menu {
+#menu {
   position: fixed;
   height: 35px;
   width: 100%;
@@ -19,7 +19,7 @@ body {
   text-align: center;
   padding-top: 50px;
   padding-bottom: 50px;
-} */
+}
 #menu a {
    position: fixed;
   color: white;
